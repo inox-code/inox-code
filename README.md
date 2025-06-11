@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @inox-code
 - 👀 I’m interested in ...Gaming and coding 
-- 🌱 I’m currently learning ... C programming Linux DBMS and AIML
+- 🌱 I’m currently learning ... C programming Linux DBMS DSA Python and AIML
 - 💞️ I’m looking to collaborate on ... New Projects, and some new ideas 
 - 📫 How to reach me ... ankit.sharma.cmr@gmail.com, insta id:@intoxicated8848
 - 😄 Pronouns: ... Pure Verified male also know as Attack Helicopter 
